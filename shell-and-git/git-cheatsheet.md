@@ -1,4 +1,4 @@
-# git cheatSheet
+# Git cheatSheet
 
 ## Git Log
 
@@ -17,3 +17,13 @@
 
 <code>git clone URL</code>
 <span style="color: #FFA500">Clones Repo to Local Storage</span>
+
+## Git Push
+
+<code>git push</code>
+<span style="color: #FFA500">Pushes files to GitHub</span>
+
+## Other
+
+<code>git help -a</code>
+<span style="color: #FFA500">Lists all git Commands</span>
