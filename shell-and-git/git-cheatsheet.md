@@ -12,3 +12,8 @@
 
 <code>code .</code>
 <span style="color: #FFA500">Opens Folder in VS-Code</span>
+
+## Git Clone
+
+<code>git clone URL</code>
+<span style="color: #FFA500">Clones Repo to Local Storage</span>
